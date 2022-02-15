@@ -1,2 +1,2 @@
 # PorfolioProjects
-This is Covid Data from https://ourworldindata.org/covid-deaths from 2020-2022
+This is a collection of queries to show my skills in SQL and Python.
