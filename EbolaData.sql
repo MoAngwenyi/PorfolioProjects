@@ -49,5 +49,6 @@ FROM PortfolioProject..EbolaDataZones
 GROUP BY [total_cases(a+e)], report_date, total_deaths, new_cured
 ORDER BY report_date desc
 
-
+--The link below leads to the dashboard 
+--https://public.tableau.com/app/profile/brenda.angwenyi/viz/EbolaInfo/Dashboard1
 
