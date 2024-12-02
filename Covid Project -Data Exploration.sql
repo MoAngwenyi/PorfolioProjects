@@ -174,3 +174,6 @@ WHERE dea.continent is not null
 
 Select *
 from PercentPopulationVaccinate
+
+--Link to the tableau dashboard
+--https://public.tableau.com/app/profile/brenda.angwenyi/viz/CovidStatistics2020-2022/Dashboard1
