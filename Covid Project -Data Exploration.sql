@@ -1,3 +1,6 @@
+--Link to the tableau dashboard
+--https://public.tableau.com/app/profile/brenda.angwenyi/viz/CovidStatistics2020-2022/Dashboard1
+
 Select *
 FROM PortfolioProject..CovDeaths
 WHERE continent is not null
