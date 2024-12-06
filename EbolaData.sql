@@ -1,4 +1,6 @@
 --DATA COMING FROM https://data.humdata.org/dataset/ebola-cases-and-deaths-drc-north-kivu
+--The link below leads to the dashboard 
+--https://public.tableau.com/app/profile/brenda.angwenyi/viz/EbolaInfo/Dashboard1
 
 -- Ebola Total Numbers from EbolaZones
 SELECT SUM([total_cases(a+e)]) as TotalInfectedNumbers,
