@@ -1,4 +1,18 @@
-# PorfolioProjects
-This is a collection of files to show my data analysis skills i.e. Data Cleaning, Data Exploration 
-and Data Visualization through tools such as SQL, Python and Tableau.
+# 📊 Portfolio Projects
+
+Welcome to my **Data Analytics Portfolio Projects** repository!  
+This is a collection of projects I've worked on to apply and demonstrate my skills in **SQL**, **Power BI**, **Tableau**, **Python**, and **Excel**.
+
+Each project tackles a different business problem or dataset, showcasing data cleaning, analysis, visualization, and storytelling.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- SQL (MySQL, PostgreSQL)
+- Power BI
+- Tableau
+- Python (Pandas, Matplotlib, Seaborn)
+- Excel & Power Query
+
 
