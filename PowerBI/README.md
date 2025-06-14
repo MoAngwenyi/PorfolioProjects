@@ -22,3 +22,11 @@ Data Scientist came high on average salary with an average salary of $93,000.
 42% said it was neither easy nor difficult to break into Data signifying it was an endeavor worth pursuing if you concentrated and took your time.
 
 Happiness with salary was low at 4.2 out of 10 while happiness with work/life balance was at 5.7.
+
+## Visualizations 
+![Data ProfessionalSurvey](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/178378569/projects/3dadbb30-6df9-4299-8690-64fae4c55021.png)
+![Data ProfessionalSurvey](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/178378569/projects/9253/3c6c2447-8fdc-4779-ac14-7d2b81f595ba.png)
+![Data ProfessionalSurvey](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/178378569/projects/9253/9bd13e35-0043-49e4-bd9e-c5a482723574.png)
+
+## 📂 Files
+- 'data_prof.csv' - Excel Workbook for Data Analysisand Exploration
