@@ -1,5 +1,5 @@
 
-# Data Professional Survey
+# 📊 Data Professional Survey
 
 This survey was taken by 630 data professionals in different roles i.e. Data Analyst, Data Engineer, Data Architect, Data Scientist, Data Developer, Students, and others.
 
