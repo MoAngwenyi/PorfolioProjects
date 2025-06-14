@@ -10,7 +10,7 @@ The various programming languages i.e., Python, Javacript, R, C++, Java etc.
 # 🛠️ Tools Used
 - CSV file
 - POWER BI
-Used PowerQuery in PowerBI to clean and the later used it to visualize.
+- Used PowerQuery in PowerBI to clean and the later used it to visualize.
 
 
 ## 📊 Key Findings
