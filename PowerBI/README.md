@@ -40,9 +40,10 @@ The patterns and trends that I noticed were:
 - POWER BI
 
   ## 📊 VISUALIZATIONS
-  ![Call Center Statistics](https://github.com/MoAngwenyi/PorfolioProjects/blob/main/PowerBI/Call%20Center%20Statistics/call01.PNG?raw=true)
-  ![Call Center Statistics](https://github.com/MoAngwenyi/PorfolioProjects/blob/main/PowerBI/Call%20Center%20Statistics/call03.PNG?raw=true)
-  ![Call Center Statistics](https://github.com/MoAngwenyi/PorfolioProjects/blob/main/PowerBI/Call%20Center%20Statistics/call04.PNG?raw=true)
+  ![Call Center Statistics](https://cdn.mavenanalytics.io/public/profile/28819320-80e1-7069-7d92-2e1dbd431d14/projects/call1.png)
+  ![Call Center Statistics](https://cdn.mavenanalytics.io/public/profile/28819320-80e1-7069-7d92-2e1dbd431d14/projects/call03.PNG)
+  ![Call Center Statistics](https://cdn.mavenanalytics.io/public/profile/28819320-80e1-7069-7d92-2e1dbd431d14/projects/call04.PNG)
+  ![Call Center Statistics](https://cdn.mavenanalytics.io/public/profile/28819320-80e1-7069-7d92-2e1dbd431d14/projects/call05.PNG)
 
 ## 📂 Files
 - `Call Center Statistics - Call Center.csv` — Excel Workbook for data exploration and analysis
