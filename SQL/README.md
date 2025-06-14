@@ -38,7 +38,7 @@ From the official WHO and HDX data during this outbreak, the provinces most affe
 
 Key affected health zones: Mandima, Mambasa, Tchomia
 
-South Kivu
+##South Kivu
 
 - Lower case numbers compared to North Kivu and Ituri, but still impacted in later stages of the outbreak
 
