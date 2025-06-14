@@ -9,4 +9,4 @@ This dashboard visualizes global maternal mortality trends (2000–2017), showin
 
 ## 📊 Dashboards
 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/brenda.angwenyi/viz/MaternalDeathNumbers2000-2017/Dashboard1)
-https://public.tableau.com/shared/BBBYY8DJZ?:display_count=n&:origin=viz_share_link
+![Maternal Death Numbers](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/178378569/projects/maternal%20deaths.png)
