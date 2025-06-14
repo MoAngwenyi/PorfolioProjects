@@ -36,7 +36,7 @@ From the official WHO and HDX data during this outbreak, the provinces most affe
 
 - Significant case numbers and fatalities
 
-##Key affected health zones: Mandima, Mambasa, Tchomia
+Key affected health zones: Mandima, Mambasa, Tchomia
 
 South Kivu
 
