@@ -1,4 +1,4 @@
-# Maternal Death Numbers 2000-2017
+# 📊 Maternal Death Numbers 2000-2017
 This dashboard visualizes global maternal mortality trends (2000–2017), showing disparities by region. It supports NGOs and policymakers in tracking progress toward SDG 3.1 and identifying areas needing urgent intervention.
 
 ## 📑 Data Source
@@ -23,7 +23,7 @@ Link to dashboard: [View Interactive Tableau Dashboard](https://public.tableau.c
 ![Maternal deaths](https://public.tableau.com/static/images/Ma/MaternalDeathNumbers2000-2017/Dashboard1/4_3.png)
 
 
-# PACIDA ANALYSIS
+# 📊 PACIDA ANALYSIS
 This is a development and relief organisation that empowers pastoralist communities through sustainable community-driven development interventions.
 
 ## 📑 Data Source
