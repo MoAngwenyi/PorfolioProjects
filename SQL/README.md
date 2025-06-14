@@ -24,7 +24,7 @@ This project analyzes the impact of the Ebola virus outbreak in the Democratic R
 📍 Most Affected Provinces (by total cases and deaths)
 From the official WHO and HDX data during this outbreak, the provinces most affected were:
 
-##North Kivu
+## North Kivu
 
 - Epicenter of the outbreak
 
@@ -32,13 +32,13 @@ From the official WHO and HDX data during this outbreak, the provinces most affe
 
 - Highest number of total cases, deaths, and recoveries
 
-##Ituri
+## Ituri
 
 - Significant case numbers and fatalities
 
 Key affected health zones: Mandima, Mambasa, Tchomia
 
-##South Kivu
+## South Kivu
 
 - Lower case numbers compared to North Kivu and Ituri, but still impacted in later stages of the outbreak
 
