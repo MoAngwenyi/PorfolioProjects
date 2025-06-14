@@ -27,6 +27,7 @@ This project analyzes bike share service data for Cyclistic to uncover insights 
 - Bike type preference breakdown
 - Weekly usage trendlines
 
+
 ## 📂 Files
 - `Cyclistic Bike Share Analysis.ipynb` — Python notebook with data cleaning, exploration, and visualization
 
