@@ -27,7 +27,7 @@ This project analyzes bike share service data for Cyclistic to uncover insights 
 - Bike type preference breakdown
 - Weekly usage trendlines
 
-![Ride Duration by Rider Type](C:\Users\User\OneDrive\Pictures\c1.png)
+![Ride Duration by Rider Type](c1.png)
 
 ## 📂 Files
 - `Cyclistic Bike Share Analysis.ipynb` — Python notebook with data cleaning, exploration, and visualization
