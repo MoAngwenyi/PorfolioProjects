@@ -34,7 +34,7 @@ This project analyzes bike share service data for Cyclistic to uncover insights 
 - `Cyclistic Bike Share Analysis.ipynb` — Python notebook with data cleaning, exploration, and visualization
 
 
-# Sales Trends and Customer Segmentation Analysis.
+# 📊  Sales Trends and Customer Segmentation Analysis.
 This project explores sales data to uncover business trends, customer behavior, and actionable insights. Key objectives include identifying monthly sales patterns, analyzing regional performance, and segmenting customers to inform marketing strategies.
 
 ## 🛠️ Tools Used
