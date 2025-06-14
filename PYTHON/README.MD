@@ -45,15 +45,11 @@ This project explores sales data to uncover business trends, customer behavior, 
 Monthly Sales Trend Analysis: The highest performing month is March while the lowest performing month is December.
 
 Regional Insights:
-The North region performs highest in September with $30799.70 in sales and lowest in Novemer at $7764.17.
-
-West region performs highest in March at $33165.84 and lowest in September at $13260.67.
-
-South performs highest in April at $31102.05, and lowest in October at $6954.18.
-
-East performs highest in July at $26630.73 and lowest in November at $11290.07.
-
-The North Region consistently outperformed all other regions.
+- The North region performs highest in September with $30799.70 in sales and lowest in Novemer at $7764.17.
+- West region performs highest in March at $33165.84 and lowest in September at $13260.67.
+- South performs highest in April at $31102.05, and lowest in October at $6954.18.
+- East performs highest in July at $26630.73 and lowest in November at $11290.07.
+- The North Region consistently outperformed all other regions.
 
 ### Customer Segmentation:
 Grouping customers based on spending habits and purchasing frequency.
