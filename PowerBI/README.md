@@ -31,5 +31,5 @@ Happiness with salary was low at 4.2 out of 10 while happiness with work/life ba
 ## 📂 Files
 - `Data Professional Survey - data_prof.csv` — Excel Workbook for data exploration and analysis
 
-  ![Data ProfessionalSurvey](https://github.com/MoAngwenyi/PorfolioProjects/blob/main/PowerBI/Call%20Center%20Statistics/call01.PNG?raw=true)
-  
+  ![Call Center Statistics](https://github.com/MoAngwenyi/PorfolioProjects/blob/main/PowerBI/Call%20Center%20Statistics/call01.PNG?raw=true)
+  ![Call Center Statistics](https://github.com/MoAngwenyi/PorfolioProjects/blob/main/PowerBI/Call%20Center%20Statistics/call03.PNG?raw=true)
