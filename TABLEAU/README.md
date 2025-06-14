@@ -29,7 +29,10 @@ This is a development and relief organisation that empowers pastoralist communit
 ## 📑 Data Source
 
 ## 📊 Key Findings
-
+- 80% of the population was aware of the PACIDA project which is a great finding.
+- Most of the population was sadly uneducated with Moyale at 73 , North Horr at 175, and Saku at 102.
+- Most of the population is married with Saku at 161.
+- Most of te population was at ages 25-34 and 35-44.
 
 ## 📊 Dashboards
 https://public.tableau.com/app/profile/brenda.angwenyi/viz/PacidaAnalysis/Dashboard2
