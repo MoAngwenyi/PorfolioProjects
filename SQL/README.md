@@ -56,6 +56,7 @@ According to outbreak reports and what your SQL queries would have produced:
 
 ## 📊 Dashboard
 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/brenda.angwenyi/viz/EbolaInfo/Dashboard1)
+![ebola (2)](https://github.com/user-attachments/assets/6addee78-d869-49e9-a470-f6c498948691)
 
 ## 📂 Files
 - `Ebola Data 2018-2020.sql` — SQL queries for data analysis
