@@ -61,6 +61,9 @@ Cluster 1: Moderate spenders with occasional purchases — target with personali
 
 Cluster 2: Low spenders — consider engagement campaigns to boost spending.
 
+## 📂 Files
+- `synthetic_sales_data.ipynb` — Python notebook with data cleaning, exploration, and visualization
+
 
 
 
