@@ -20,26 +20,27 @@ This project analyzes the impact of the Ebola virus outbreak in the Democratic R
 - Identified provinces and health zones most affected by the Ebola outbreak.
 - Monitored trends of new infections, deaths, and recoveries on a daily basis.
 - Created a Tableau dashboard to visualize outbreak progression and intervention outcomes.
-  📍 Most Affected Provinces (by total cases and deaths)
+
+📍 Most Affected Provinces (by total cases and deaths)
 From the official WHO and HDX data during this outbreak, the provinces most affected were:
 
-North Kivu
+##North Kivu
 
-Epicenter of the outbreak
+- Epicenter of the outbreak
 
-Major affected health zones: Beni, Butembo, Katwa
+- Major affected health zones: Beni, Butembo, Katwa
 
-Highest number of total cases, deaths, and recoveries
+- Highest number of total cases, deaths, and recoveries
 
-Ituri
+##Ituri
 
-Significant case numbers and fatalities
+- Significant case numbers and fatalities
 
-Key affected health zones: Mandima, Mambasa, Tchomia
+##Key affected health zones: Mandima, Mambasa, Tchomia
 
 South Kivu
 
-Lower case numbers compared to North Kivu and Ituri, but still impacted in later stages of the outbreak
+- Lower case numbers compared to North Kivu and Ituri, but still impacted in later stages of the outbreak
 
 📍 Top Affected Health Zones (by total cases, deaths, and cures)
 According to outbreak reports and what your SQL queries would have produced:
