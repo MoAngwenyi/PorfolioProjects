@@ -5,7 +5,7 @@ This survey was taken by 630 data professionals in different roles i.e. Data Ana
 
 The various programming languages i.e., Python, Javacript, R, C++, Java etc.
 
-## 📑 Data Source : ALex Freberg
+## 📑 Data Source : Alex Freberg(Alex the Analyst on Youtube)
 
 # 🛠️ Tools Used
 - CSV file
@@ -29,7 +29,6 @@ The patterns and trends that I noticed were:
 
 ## 📂 Files
 - `Data Professional Survey - data_prof.csv` — Excel Workbook for data exploration and analysis
-
 
 
 ## CALL CENTER STATISTICS
