@@ -24,12 +24,13 @@ Link to dashboard: [View Interactive Tableau Dashboard](https://public.tableau.c
 
 
 # 📊 PACIDA ANALYSIS
-This is a development and relief organisation that empowers pastoralist communities through sustainable community-driven development interventions.
-
+Pastoralist Community Initiative and Development Assistance - This is a development and relief organisation that empowers pastoralist communities through sustainable community-driven development interventions.
+Through the NORAD project that PACIDA is undertaking to support farmers from Saku and North Horr Sub-Counties through capacity building and inputs for agriculture sector to bolster crop production. The package also has bee keeping, poultry keeping and livestock production components.
 ## 📑 Data Source
+- Organizational data
 
 ## 📊 Key Findings
-- 80% of the population was aware of the PACIDA project which is a great finding.
+- 80% of the population was aware of the PACIDA project which is great because this means the community is halfway being helped.
 - Most of the population was sadly uneducated with Moyale at 73 , North Horr at 175, and Saku at 102.
 - Most of the population is married with Saku at 161.
 - Most of te population was at ages 25-34 and 35-44.
