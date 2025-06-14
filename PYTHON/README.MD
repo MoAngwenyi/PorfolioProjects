@@ -37,7 +37,11 @@ This project analyzes bike share service data for Cyclistic to uncover insights 
 # Sales Trends and Customer Segmentation Analysis.
 This project explores sales data to uncover business trends, customer behavior, and actionable insights. Key objectives include identifying monthly sales patterns, analyzing regional performance, and segmenting customers to inform marketing strategies.
 
-### Key Features
+## 🛠️ Tools Used
+- Python
+- CSV file
+
+## 📊 Key Findings
 Monthly Sales Trend Analysis: The highest performing month is March while the lowest performing month is December.
 
 Regional Insights:
