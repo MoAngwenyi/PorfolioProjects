@@ -38,8 +38,9 @@ This project analyzes bike share service data for Cyclistic to uncover insights 
 This project explores sales data to uncover business trends, customer behavior, and actionable insights. Key objectives include identifying monthly sales patterns, analyzing regional performance, and segmenting customers to inform marketing strategies.
 
 ## 🛠️ Tools Used
-- Python
+- Python - Data manipulation, analysis, and visualization using Pandas, Matplotlib, and Seaborn.
 - CSV file
+- Jupyter Notebook: Interactive environment for data analysis.
 
 ## 📊 Key Findings
 Monthly Sales Trend Analysis: The highest performing month is March while the lowest performing month is December.
@@ -60,12 +61,7 @@ Cluster 1: Moderate spenders with occasional purchases — target with personali
 
 Cluster 2: Low spenders — consider engagement campaigns to boost spending.
 
-### Tools and Technologies
-Python: Data manipulation, analysis, and visualization using Pandas, Matplotlib, and Seaborn.
 
-K-Means Clustering: Customer segmentation using Scikit-learn.
-
-Jupyter Notebook: Interactive environment for data analysis.
 
 
 
