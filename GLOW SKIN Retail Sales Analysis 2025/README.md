@@ -22,7 +22,7 @@ Table 1: Customer details i.e. email addresses, Names, Customer IDs, Country of 
 Table 2: Includes order/sales transactions i.e product names,sales channel, customer IDs, and Order ID.
 Table 3: Includes product details i.e product name and type, and inventory.
 [Entity Relationship Diagram here]
-
+![Data ProfessionalSurvey]
 # Executive Summary
 Overview of Findings
 
