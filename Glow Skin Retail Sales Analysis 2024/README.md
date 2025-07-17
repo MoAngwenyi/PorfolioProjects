@@ -42,13 +42,13 @@ Table 3: Includes product details i.e product name and type, and inventory.
 
 # Insights Deep Dive
 
-## Category 1:
+## ORDERS OVERVIEW:
 
 Main insight 1. Their most profitable sales channel is  The online store at 25.31% which is roughly 2,530 orders while the Facebook Shop is the least viable sales channel at 24.77% amounting to 2,480 orders. 
 
 Main insight 2. Night Repair Cream is the most ordered product with 4,008 units.
 
-Main insight 3. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+Main insight 3. The most profitable month is May at 3,441 orders and the least proftable month is July at 1,474.
 
 Main insight 4. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
@@ -56,7 +56,7 @@ Main insight 4. More detail about the supporting analysis about this insight, in
 <img width="910" height="513" alt="orders" src="https://github.com/user-attachments/assets/df3ec0ec-bccd-435d-9412-3fa3bf103d6c" />
 
 
-## Category 2:
+## PRODUCTS OVERVIEW:
 
 Main insight 1. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
@@ -69,7 +69,7 @@ Main insight 4. More detail about the supporting analysis about this insight, in
 <img width="747" height="419" alt="GlowskinProducts" src="https://github.com/user-attachments/assets/e4126098-ca7b-41b7-861b-d3cf62bb7851" />
 
 # Recommendations:
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:
+Based on the insights and findings above, we would recommend the MARKETING TEAM to consider the following:
 
 Specific observation that is related to a recommended action. Recommendation or general guidance based on this observation.
 
