@@ -24,6 +24,8 @@ Table 3: Includes product details i.e product name and type, and inventory.
 [Entity Relationship Diagram here]
 
 ![Glow Skin Retail Sales](https://github.com/MoAngwenyi/PorfolioProjects/commit/0c0567d03fe185f5708f0e22156251ab7d7487f3)
+
+<img width="1010" height="476" alt="glowskin data model" src="https://github.com/user-attachments/assets/8c76ed0e-7d37-484b-8d80-1df7bb10fadd" />
 # Executive Summary
 Overview of Findings
 
