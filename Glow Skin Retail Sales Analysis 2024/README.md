@@ -6,13 +6,13 @@ The recommendations will be used by the marketing and product team to better all
 Insights are delivered to operations and product managers.
 Insights and recommendations are provided on the following key areas:
 
-Category 1:
+Category 1: WHAT IS THE TOTAL SALES FOR THE 4 MONTHS? HIGHEST SELLING MONTH?
 
-Category 2:
+Category 2: WHAT IS THE MOST ORDERED PRODUCT?
 
-Category 3:
+Category 3: WHAT IS THE MOST EFFECTIVE SALES CHANNEL?
 
-Category 4:
+Category 4: THE PRODUCT TYPES AVAILABLE. I.E. INVENTORY
 
 I used Google Sheets and Power Query to clean the data.
 I created new measure columns using Power BI.
@@ -44,13 +44,13 @@ Table 3: Includes product details i.e product name and type, and inventory.
 
 ## ORDERS OVERVIEW:
 
-Main insight 1. Their most profitable sales channel is  The online store at 25.31% which is roughly 2,530 orders while the Facebook Shop is the least viable sales channel at 24.77% amounting to 2,480 orders. 
+- Their most profitable sales channel is  The online store at 25.31% which is roughly 2,530 orders while the Facebook Shop is the least viable sales channel at 24.77% amounting to 2,480 orders. 
 
-Main insight 2. Night Repair Cream is the most ordered product with 4,008 units.
+- Night Repair Cream is the most ordered product with 4,008 units.
 
-Main insight 3. The most profitable month is May at 3,441 orders and the least proftable month is July at 1,474.
+- The most profitable month is May at 3,441 orders and the least proftable month is July at 1,474.
 
-Main insight 4. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+- More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 
 <img width="910" height="513" alt="orders" src="https://github.com/user-attachments/assets/df3ec0ec-bccd-435d-9412-3fa3bf103d6c" />
