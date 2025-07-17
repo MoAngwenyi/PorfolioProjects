@@ -19,9 +19,9 @@ I created new measure columns using Power BI.
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: Customers,Orders, and Products with a total row count of 10,000 records. Each table contains the following:
+The companies main database structure as seen below consists of three tables: Customers,Orders, and Products with a total row count of 10,000 sales records. Each table contains the following:
 
-Table 1: Customer details i.e. email addresses, Names, Customer IDs, Country of origin, and their total spend.
+Table 1: Customer details i.e. email addresses, First & Last Names, Customer IDs, Country of origin, and the total spend per customer.
 
 Table 2: Includes order/sales transactions i.e product names,sales channel, customer IDs, and Order ID.
 
@@ -33,7 +33,9 @@ Table 3: Includes product details i.e product name and type, and inventory.
 # Executive Summary
 
 ## Overview of Findings
-(Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+- Glow Skin has a total sales of KES 33,340 for the 4 months its been operational. 
+- The Night Repair Cream being its most profitable product earning KES 16,325.
+- Total Number of Customers are 3,000. 
 
 <img width="749" height="422" alt="Glowskin Overview" src="https://github.com/user-attachments/assets/cd02ea57-414e-41f9-a47b-76276b334609" />
 
@@ -42,16 +44,16 @@ Table 3: Includes product details i.e product name and type, and inventory.
 
 ## Category 1:
 
-Main insight 1. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+Main insight 1. Their most profitable sales channel is  The online store at 25.31% which is roughly 2,530 orders while the Facebook Shop is the least viable sales channel at 24.77% amounting to 2,480 orders. 
 
-Main insight 2. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+Main insight 2. Night Repair Cream is the most ordered product with 4,008 units.
 
 Main insight 3. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 Main insight 4. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-<img width="746" height="417" alt="Glowskin Orders" src="https://github.com/user-attachments/assets/abe01c4d-3bba-4b60-a2b6-92b51906c43c" />
 
+<img width="910" height="513" alt="orders" src="https://github.com/user-attachments/assets/df3ec0ec-bccd-435d-9412-3fa3bf103d6c" />
 
 
 ## Category 2:
