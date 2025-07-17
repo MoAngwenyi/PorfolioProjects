@@ -22,7 +22,7 @@ Table 1: Customer details i.e. email addresses, Names, Customer IDs, Country of 
 Table 2: Includes order/sales transactions i.e product names,sales channel, customer IDs, and Order ID.
 Table 3: Includes product details i.e product name and type, and inventory.
 [Entity Relationship Diagram here]
-![Data ProfessionalSurvey]
+![Glow Skin Retail Sales](https://github.com/MoAngwenyi/PorfolioProjects/commit/0c0567d03fe185f5708f0e22156251ab7d7487f3)
 # Executive Summary
 Overview of Findings
 
