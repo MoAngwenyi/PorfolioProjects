@@ -33,3 +33,27 @@ Table 3: Includes product details i.e product name and type, and inventory.
 # Executive Summary
 Overview of Findings
 
+# Insights Deep Dive
+
+Category 1:
+Main insight 1. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+Main insight 2. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+Main insight 3. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+Main insight 4. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+[Visualization specific to category 1]
+
+Category 2:
+Main insight 1. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+Main insight 2. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+Main insight 3. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+Main insight 4. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+[Visualization specific to category 2]
+
