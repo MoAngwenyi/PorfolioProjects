@@ -1,4 +1,4 @@
-# 📊 PROJECT OVERVIEW AND BACKGROUND:
+# 📊 PROJECT OVERVIEW AND BACKGROUND
 
 Glow skin is a e-commerce company specializing in skincare based in Nairobi, Kenya and serving 5 african countries.
 The KPIs we are investigating are these metrics- ie sales, customers, and products in a span of 4 months April - August 2024.
@@ -31,7 +31,11 @@ Table 3: Includes product details i.e product name and type, and inventory.
 <img width="1010" height="476" alt="glowskin data model" src="https://github.com/user-attachments/assets/8c76ed0e-7d37-484b-8d80-1df7bb10fadd" />
 
 # Executive Summary
-Overview of Findings
+
+## Overview of Findings
+(Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+
+[Visualization, including a graph of overall trends or snapshot of a dashboard] 
 
 # Insights Deep Dive
 
