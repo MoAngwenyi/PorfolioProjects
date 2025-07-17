@@ -35,7 +35,8 @@ Table 3: Includes product details i.e product name and type, and inventory.
 ## Overview of Findings
 (Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard] 
+<img width="749" height="422" alt="Glowskin Overview" src="https://github.com/user-attachments/assets/cd02ea57-414e-41f9-a47b-76276b334609" />
+
 
 # Insights Deep Dive
 
@@ -48,9 +49,12 @@ Main insight 3. More detail about the supporting analysis about this insight, in
 
 Main insight 4. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 1]
+<img width="746" height="417" alt="Glowskin Orders" src="https://github.com/user-attachments/assets/abe01c4d-3bba-4b60-a2b6-92b51906c43c" />
+
+
 
 Category 2:
+
 Main insight 1. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 Main insight 2. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
@@ -59,7 +63,7 @@ Main insight 3. More detail about the supporting analysis about this insight, in
 
 Main insight 4. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 2]
+<img width="747" height="419" alt="GlowskinProducts" src="https://github.com/user-attachments/assets/e4126098-ca7b-41b7-861b-d3cf62bb7851" />
 
 # Recommendations:
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:
