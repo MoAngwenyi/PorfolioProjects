@@ -77,7 +77,5 @@ Based on the insights and findings above, we would recommend the Administration/
 
 - The loss of most patients admitted shows the hospital may need to hire better specialists. Better equipment to treat the patients would also come in handy.
 - The team needs to dig deeper on the issues that are affecting the age group of 61-70 more.
-- Specific observation that is related to a recommended action. Recommendation or general guidance based on this observation.
-- Specific observation that is related to a recommended action. Recommendation or general guidance based on this observation.
-
+- The administration together with the Cardiology department needs to come up with awareness programs on issues related to the hert and thus enabling more patients to come up to check-ups early.
 
