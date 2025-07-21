@@ -36,7 +36,7 @@ Table 3: Includes product details i.e product name and type, and inventory.
 - Glow Skin has a total sales of KES 33,340 for the 4 months its been operational. 
 - The Night Repair Cream being its most profitable product earning KES 16,325.
 - Total Number of Customers are 3,000.
-- The Power BI link: https://app.powerbi.com/view?r=eyJrIjoiOWJjNjU4ZDItYWZjNy00OThjLTljYjAtOWI1ZWUxZTUzNGUzIiwidCI6ImUzNDk3ZTRjLWU2NDItNDhlNi1iNTkzLWQzZTQ0MDkwZmY5ZSJ9
+- The Power BI link: [Glow Skin Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWJjNjU4ZDItYWZjNy00OThjLTljYjAtOWI1ZWUxZTUzNGUzIiwidCI6ImUzNDk3ZTRjLWU2NDItNDhlNi1iNTkzLWQzZTQ0MDkwZmY5ZSJ9)
 
 
 <img width="749" height="422" alt="Glowskin Overview" src="https://github.com/user-attachments/assets/cd02ea57-414e-41f9-a47b-76276b334609" />
