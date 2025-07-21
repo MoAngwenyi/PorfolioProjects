@@ -46,6 +46,7 @@ The hospital main database structure as seen below consists of three tables: Adm
 - The Pediatrics department had the highest cost of treatment at $1,589,707.77.
 - Total cost of treament for all patients was $ 10.34M.
 - Average days of recovery was 10 days.
+- Power BI link: [UnityCareHealth Analytics Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmM1MmQ3NTMtMTkwYy00NjQ0LWJjNmItNjlkMzljNDcxZTBkIiwidCI6ImUzNDk3ZTRjLWU2NDItNDhlNi1iNTkzLWQzZTQ0MDkwZmY5ZSJ9)
 
 ![hsp overview](https://github.com/user-attachments/assets/696049ba-f081-45dc-b3df-5f87e80211dd)
 
