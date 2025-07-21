@@ -45,12 +45,10 @@ Table 3: Includes product details i.e product name and type, and inventory.
 ## ORDERS OVERVIEW:
 
 - Their most profitable sales channel is  The online store at 25.31% which is roughly 2,530 orders while the Facebook Shop is the least viable sales channel at 24.77% amounting to 2,480 orders. 
-
 - Night Repair Cream is the most ordered product with 4,008 units.
-
 - The most profitable month is May at 3,441 orders and the least proftable month is July at 1,474.
 
-- More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
 
 
 <img width="910" height="513" alt="orders" src="https://github.com/user-attachments/assets/df3ec0ec-bccd-435d-9412-3fa3bf103d6c" />
@@ -58,37 +56,19 @@ Table 3: Includes product details i.e product name and type, and inventory.
 
 ## PRODUCTS OVERVIEW:
 
-Main insight 1. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-Main insight 2. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-Main insight 3. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-Main insight 4. More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+- The total sales is KES 33,340 with 20 product types stocked. 
+- The Night Repair Cream is the most sold product at KES 16,325 and well stocked at 492 units in inventory. 
+-  The Glow moisturizer is the least sold product at only KES 1,030 and east stocked at 39 units. 
 
 <img width="747" height="419" alt="GlowskinProducts" src="https://github.com/user-attachments/assets/e4126098-ca7b-41b7-861b-d3cf62bb7851" />
 
 # Recommendations:
 Based on the insights and findings above, we would recommend the MARKETING TEAM to consider the following:
 
-Specific observation that is related to a recommended action. Recommendation or general guidance based on this observation.
+- Find out why the Glow Moisturizer is the least selling product . Is it that its not formulated well? Or are customers preferring some other type of moisturizer that GlowSkin can start stocking.
+- Find out why May and June performed better compared to April and July and use that to improve overall sales.
+- Although GlowSkin made KES 33,340 in its 4 months of operation with 20 product types, its abit low. The marketing team should improve their marketing channels and methods to be more profitable.
 
-Specific observation that is related to a recommended action. Recommendation or general guidance based on this observation.
-
-Specific observation that is related to a recommended action. Recommendation or general guidance based on this observation.
-
-Specific observation that is related to a recommended action. Recommendation or general guidance based on this observation.
-
-Specific observation that is related to a recommended action. Recommendation or general guidance based on this observation.
-
-# Assumptions and Caveats:
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
-
-Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-
-Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-
-Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
 
 
 
