@@ -14,7 +14,7 @@ The dataset had one google sheet of 50,000 rows with columns seen in the figure 
 ![financial data model](https://github.com/user-attachments/assets/5fefee33-6635-443d-9d81-69ef0d2da19f)
 
 This Power BI dashboard was developed as a modern financial analytics solution, providing the executive team and finance team with real-time insights into revenue, expenses, profit margins, and performance drivers across the business.
-- Power BI Link: ![Blue Peak Holdings](https://app.powerbi.com/view?r=eyJrIjoiZTM3MjA3NmYtMzQxNC00NDU0LThlNjgtMDg4ZWUyMDgwM2VmIiwidCI6ImUzNDk3ZTRjLWU2NDItNDhlNi1iNTkzLWQzZTQ0MDkwZmY5ZSJ9)
+- Power BI Link: [Blue Peak Holdings](https://app.powerbi.com/view?r=eyJrIjoiZTM3MjA3NmYtMzQxNC00NDU0LThlNjgtMDg4ZWUyMDgwM2VmIiwidCI6ImUzNDk3ZTRjLWU2NDItNDhlNi1iNTkzLWQzZTQ0MDkwZmY5ZSJ9)
 
 # Executive Summary
 - In 2024, BluePeak Holdings generated KES 37M in revenue and KES 13.26M in profit, resulting in a profit margin of 38.17%. The company maintained a strong monthly revenue stream with relatively consistent margins throughout the year. Regional performance was evenly distributed, with Kisumu, Eldoret, Nakuru, Mombasa, and Nairobi each contributing between 19%–21% of total revenue.
