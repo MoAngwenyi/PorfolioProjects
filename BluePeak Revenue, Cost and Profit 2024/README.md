@@ -13,7 +13,7 @@ The dataset had one google sheet of 50,000 rows with columns seen in the figure 
 
 ![financial data model](https://github.com/user-attachments/assets/5fefee33-6635-443d-9d81-69ef0d2da19f)
 
-This Power BI dashboard was developed as a modern financial analytics solution, providing the executive team and finance team with real-time insights into revenue, expenses, profit margins, and performance drivers across the business.
+This Power BI dashboard was developed as a modern financial analytics solution, leveraging Power Query for data cleaning and transformation, and DAX measures for revenue, profit, and margin calculations. The solution provides the executive team with real-time insights into the company’s financial health.
 - Power BI Link: [Blue Peak Holdings](https://app.powerbi.com/view?r=eyJrIjoiZTM3MjA3NmYtMzQxNC00NDU0LThlNjgtMDg4ZWUyMDgwM2VmIiwidCI6ImUzNDk3ZTRjLWU2NDItNDhlNi1iNTkzLWQzZTQ0MDkwZmY5ZSJ9)
 
 # Executive Summary
