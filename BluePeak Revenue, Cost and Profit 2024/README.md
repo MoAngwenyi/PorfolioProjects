@@ -9,16 +9,17 @@ The finance team needed the following insights revealed through the cleaning and
 
 # Data Structure 
 
-The dataset had one google sheet with 50,000 rows with columns seen in the figure below.
+The dataset had one google sheet of 50,000 rows with columns seen in the figure below.
 
 ![financial data model](https://github.com/user-attachments/assets/5fefee33-6635-443d-9d81-69ef0d2da19f)
 
 This Power BI dashboard was developed as a modern financial analytics solution, providing the executive team and finance team with real-time insights into revenue, expenses, profit margins, and performance drivers across the business.
+- Power BI Link: ![Blue Peak Holdings](https://app.powerbi.com/view?r=eyJrIjoiZTM3MjA3NmYtMzQxNC00NDU0LThlNjgtMDg4ZWUyMDgwM2VmIiwidCI6ImUzNDk3ZTRjLWU2NDItNDhlNi1iNTkzLWQzZTQ0MDkwZmY5ZSJ9)
 
 # Executive Summary
 - In 2024, BluePeak Holdings generated KES 37M in revenue and KES 13.26M in profit, resulting in a profit margin of 38.17%. The company maintained a strong monthly revenue stream with relatively consistent margins throughout the year. Regional performance was evenly distributed, with Kisumu, Eldoret, Nakuru, Mombasa, and Nairobi each contributing between 19%–21% of total revenue.
 
-- Sales channels — Mobile App, Online, and Physical Stores — performed nearly equally, suggesting well-balanced customer engagement. However, product category profitability varied significantly. While Electronics and Home & Garden led in profit, categories like Books and Sports underperformed.
+- Sales channels — Mobile App, Online, and Physical Stores performed nearly equally, suggesting well-balanced customer engagement. However, product category profitability varied significantly. While Electronics and Home & Garden led in profit, categories like Books and Sports underperformed.
 
 - The dashboard also revealed that deeper discounts often resulted in lower average profits per transaction, emphasizing the need to better align promotional strategies with revenue goals.
 
