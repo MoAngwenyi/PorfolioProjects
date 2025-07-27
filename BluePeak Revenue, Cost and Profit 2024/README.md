@@ -1,6 +1,11 @@
 # Project Overview & Background
 
 BluePeak Holdings is a mid-sized enterprise operating across multiple regions and product categories. The finance team needed a centralized solution to track monthly financial performance, monitor sales efficiency, and analyze profitability across sales channels, regions, and product lines. Prior to this, performance reviews relied on static spreadsheets with limited granularity and interactivity.
+I built this Power BI dashboard to:
+- Clean and structure raw financial data using Power Query.
+- Create calculated KPIs using DAX.
+- Deliver real-time, executive-level insights for faster decisions.
+  
 The finance team needed the following insights revealed through the cleaning and analyzing of the data available in the following categories:
 - Revenue Performance by Region, Channel & Time.
 - Product & Sales Performance.
