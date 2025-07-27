@@ -2,9 +2,9 @@
 
 BluePeak Holdings is a mid-sized enterprise operating across multiple regions and product categories. The finance team needed a centralized solution to track monthly financial performance, monitor sales efficiency, and analyze profitability across sales channels, regions, and product lines. Prior to this, performance reviews relied on static spreadsheets with limited granularity and interactivity.
 The finance team needed the following insights revealed through the cleaning and analyzing of the data available in the following categories:
-- Revenue Performance by Region, Channel & Time
-- Product & Sales Performance
-- Profitability by Category & Discount Behavior
+- Revenue Performance by Region, Channel & Time.
+- Product & Sales Performance.
+- Profitability by Category & Discount Behavior.
 
 
 # Data Structure 
