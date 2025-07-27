@@ -16,6 +16,8 @@ The finance team needed the following insights revealed through the cleaning and
 
 The dataset had one google sheet of 50,000 rows with columns seen in the figure below.
 
+Columns included: Transaction Date, Product, Region, Channel, Price, Quantity, Discount %, Category, Payment Method
+
 ![financial data model](https://github.com/user-attachments/assets/5fefee33-6635-443d-9d81-69ef0d2da19f)
 
 This Power BI dashboard was developed as a modern financial analytics solution, leveraging Power Query for data cleaning and transformation, and DAX measures for revenue, profit, and margin calculations. The solution provides the executive team with real-time insights into the company’s financial health.
