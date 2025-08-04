@@ -7,22 +7,23 @@ The recommendations will be used by administration/executive, and departmental h
 This dashboard is designed to look into:
 
 - Patient admissions
-- Gender ad Age distribution
+- Gender and Age distribution
 - Treatment costs
 - Diagnosis trends
 - Clinical outcomes (e.g., recovery vs. mortality)
 
 ## Category 1: Patient Admissions Overview
 
-- How many patients were admitted over time (monthly/weekly)?
+- What's the total cost of treatment.
+- How many patients were admitted in total and over time i.e.(daily/monthly)?
 - What are the most common departments for admissions?
 - What’s the admission numbers by gender?
 
 ## Category 2: Treatment Costs & Diagnosis Breakdown
 
-- What is the average treatment cost per department?
+- What is the total treatment cost per department?
 - Are certain departments more expensive to treat in?
-- What’s the cost distribution by patient age or gender?P
+- What’s the cost distribution by patient age or gender?
 - How many patients were admitted over time (monthly/weekly)?
 - What’s the age and gender distribution of admitted patients?
 
@@ -54,17 +55,17 @@ The hospital main database structure as seen below consists of three tables: Adm
 # Insights Deep Dive
 
 # Admissions & Patient Demographics
-## High-Cost Departments Identified
 
+- Admissions declined from January 2023 to Jan 2024(163 to 8)
 - Pediatrics, Oncology, and Dermatology collectively account for over 45% of total treatment costs, despite representing a lower proportion of overall patient admissions.
-- Emergency and Neurology departments exhibit a balance between high admissions and high treatment costs, indicating operational intensity.
+- Emergency and Cardiology departments have the least admission numbers.
   
 
 ![hsp2](https://github.com/user-attachments/assets/cdb61c2e-3e20-4260-9b1b-41aaab4fbad4)
 
 # Treatment Cost & Diagnosis Analysis
 ## Age Group Cost Disparity
-- Patients aged 71–90 have noticeably higher treatment costs, with an average exceeding $5,500 per patient, correlating with extended recovery durations.
+- Patients aged 71–80  and 81-90 have noticeably higher treatment costs, with an average exceeding $5,500 per patient, correlating with extended recovery durations.
 - Pediatric cases, while high in volume, maintain relatively lower average treatment costs, but resource allocation needs monitoring due to volume strain.
 
 ## Gender Distribution Patterns
