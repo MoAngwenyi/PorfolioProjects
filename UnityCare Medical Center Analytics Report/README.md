@@ -48,35 +48,53 @@ The hospital main database structure as seen below consists of three tables: Adm
 - Average days of recovery was 10 days.
 - Power BI link: [UnityCareHealth Analytics Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmM1MmQ3NTMtMTkwYy00NjQ0LWJjNmItNjlkMzljNDcxZTBkIiwidCI6ImUzNDk3ZTRjLWU2NDItNDhlNi1iNTkzLWQzZTQ0MDkwZmY5ZSJ9)
 
-![hsp overview](https://github.com/user-attachments/assets/696049ba-f081-45dc-b3df-5f87e80211dd)
+
+![hsp1](https://github.com/user-attachments/assets/6dae7854-eacc-4521-aaa9-772e0bcc0cbd)
 
 # Insights Deep Dive
 
-## Admissions & Patient Demographics
-- Most patients admitted were female at 693.
-- The 0-10 Age group was the one most admitted.
-- Cardiology department had the least number of admissions at 262 patients.
-  
-![admissions overview](https://github.com/user-attachments/assets/6699cd00-0f05-4766-b184-15e3a4ea0e19)
+# Admissions & Patient Demographics
+## High-Cost Departments Identified
 
-## Treatment Cost & Diagnosis Analysis
-- The department with the highest total treatment is Pediatrics at $1,589,707.77 while Cardiology is at $1,397,303.54
-- Average cost distribution per age group is (61-70) at $5,499.13 as the lowest age group is (51-60) at $4957.75
-- The gender distribution of admitted patients is 693 female, 639 male and others at 668.
-- There is a visible concentration of treatment costs between $2,000–$6,000 across most recovery durations. However, we begin to see cost spikes beyond the 10-day mark, suggesting longer stays often result in more resource-intensive care.
+- Pediatrics, Oncology, and Dermatology collectively account for over 45% of total treatment costs, despite representing a lower proportion of overall patient admissions.
+- Emergency and Neurology departments exhibit a balance between high admissions and high treatment costs, indicating operational intensity.
   
 
-![treatment cost](https://github.com/user-attachments/assets/e5fde6ec-0f63-4bdd-a0be-c418c6392734)
+![hsp2](https://github.com/user-attachments/assets/cdb61c2e-3e20-4260-9b1b-41aaab4fbad4)
 
-## Patient Outcomes by Department & Demographics
-- The most common outcomes are deceased (425) and unchanged (418).
-- The departments departments with the highest rate of poor outcomes are Orthopedics and Cardiology.
-- Average length of stay is 10 days.
+# Treatment Cost & Diagnosis Analysis
+## Age Group Cost Disparity
+- Patients aged 71–90 have noticeably higher treatment costs, with an average exceeding $5,500 per patient, correlating with extended recovery durations.
+- Pediatric cases, while high in volume, maintain relatively lower average treatment costs, but resource allocation needs monitoring due to volume strain.
+
+## Gender Distribution Patterns
+- Gender distribution across departments is fairly balanced; however, certain departments (e.g., Orthopedics and Cardiology) show a slight male-patient predominance.
+- Treatment cost variations by gender are minimal, indicating no significant bias in cost distribution.
+
+
+
+![hsp3](https://github.com/user-attachments/assets/dc4dea76-055e-473e-af8f-a5392d0c7470)
+
+# Patient Outcomes by Department & Demographics
+## Recovery Efficiency Insights
+- Average recovery days across the hospital remain stable at 10 days, though scatterplot analysis indicates a subset of cases (10–15 days) that disproportionately affect treatment cost figures, especially in Neurology and Oncology.
+
+## Outcome Distribution
+- Recovered and Improved outcomes represent a combined 39% of patient outcomes, while Worsened or Deceased cases total 40%, signaling a critical need for enhanced patient management in high-risk departments.
+
 
 # Recommendations:
 Based on the insights and findings above, we would recommend the Administration/ to consider the following:
 
-- The loss of most patients admitted shows the hospital may need to hire better specialists. Better equipment to treat the patients would also come in handy.
-- The team needs to dig deeper on the issues that are affecting the age group of 61-70 more.
-- The administration together with the Cardiology department needs to come up with awareness programs on issues related to the hert and thus enabling more patients to come up to check-ups early.
+1)Optimize Resource Allocation in High-Cost Departments. Conduct a focused operational audit in Oncology and Pediatrics to streamline treatment workflows and identify cost-saving opportunities without compromising care quality.
+
+2)Targeted Care Programs for Elderly Patients. Develop specialized care management strategies for patients aged 71–90 to reduce treatment duration and associated costs, possibly through early intervention and post-discharge care follow-ups.
+
+3)Monitor Emergency & Neurology Throughput. Implement real-time capacity dashboards for Emergency and Neurology departments to better manage patient flow, minimize bottlenecks, and allocate resources dynamically.
+
+4)Outcome Improvement Initiatives. Launch cross-departmental quality improvement initiatives aimed at reducing Worsened/Deceased outcomes, especially in departments with critical care cases.
+
+5)Regular KPI Monitoring & Benchmarking. Establish a monthly KPI review framework to track recovery rates, treatment costs, and department-wise efficiency against industry benchmarks.
+
+
 
