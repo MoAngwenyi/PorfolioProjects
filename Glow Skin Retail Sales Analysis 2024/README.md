@@ -59,7 +59,7 @@ Key Findings
 1) Sales & Profitability Snapshot
 - Total Sales recorded: KES 782,695.
 - Total Cost of Goods Sold (COGS): KES 864,850.
-- Net Loss: €82,155, driven primarily by high refund rates.
+- Net Loss: KES 82,155, driven primarily by high refund rates.
 
 2) Critical Refund & Pending Orders Issue
 - Refunded Orders: 33.47% of total.
